@@ -126,8 +126,6 @@ dist
 
 # added by me -tab
 .vscode/
-package-lock.json
-package.json
 archive/
 
 # End of https://www.toptal.com/developers/gitignore/api/node
