@@ -2,7 +2,7 @@ require('dotenv').config()
 
 const accountid = process.env.NEWRELIC_ACCOUNTID;
 const agentid = process.env.NEWRELIC_AGENTID;
-const appid = process.env.appid;
+const appid = process.env.NERELIC_APPID;
 const licensekey = process.env.NEWRELIC_LICENSEKEY;
 
 ;window.NREUM||(NREUM={});NREUM.init={distributed_tracing:{enabled:true},privacy:{cookies_enabled:true}};
