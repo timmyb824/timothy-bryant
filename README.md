@@ -1,6 +1,6 @@
 # Timothy Bryant
 
-A website to highlight some of my skills, experiences, interests, and projects.
+A [website](https://timothybryantjr.com) to highlight some of my skills, experiences, interests, and projects. The site is currently hosted and deployed using [Netlify](www.netlify.com).
 
 ## Special Thanks ❤️
 
