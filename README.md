@@ -1,6 +1,6 @@
 # Timothy Bryant
 
-A [website](https://timothybryantjr.com) to highlight some of my skills, experiences, interests, and projects. The site is actively under construction but is currently hosted and deployed using [Netlify](www.netlify.com).
+A [website](https://timothybryantjr.com) to highlight some of my skills, experiences, interests, and projects. The site is actively under construction but is currently hosted and deployed using [Netlify](netlify.com).
 
 ## Special Thanks ❤️
 
